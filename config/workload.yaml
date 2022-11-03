@@ -15,4 +15,5 @@ spec:
     git:
       url: https://github.com/egedsoft/demo-20
       ref:
-        branch: main
+        branch: master
+
