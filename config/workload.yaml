@@ -13,6 +13,6 @@ spec:
       autoscaling.knative.dev/minScale: "1"
   source:
     git:
-      url: https://github.com/sample-accelerators/demo-20
+      url: https://github.com/egedsoft/demo-20
       ref:
         branch: main
